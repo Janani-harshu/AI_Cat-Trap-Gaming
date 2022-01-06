@@ -5,7 +5,7 @@ An intelligent that plays the Cat Trap game using the Minimax algorithm, with Al
 You'll need Python 3, numpy and PyQT5. Simply run the command `python CatTrap.py`
 
 ### Play it online! ###
-You may also play with the code (and the cat) at Repl.it: https://repl.it/@kuashio/cat-trap-game
+You may also play with the code (and the cat) at Repl.it: https://repl.it/@kuashio/cat-trap-game or https://llerrah.com/cattrap.htm
 
 # Controls
 
